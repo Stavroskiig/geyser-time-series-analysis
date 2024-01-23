@@ -11,8 +11,10 @@ The project involves the examination of historical data, specifically the time i
 ## Contents
 
 - `code/`: Contains the MATLAB and Python scripts used for data analysis.
-- `data/`: Includes the datasets for the respective years.
-- `results/`: Stores the results, tables, and figures generated during the analysis.
+- `EruptionData/`: Includes the datasets for the respective years.
+- `lab/`: Contains scripts used for data analysis.
+- `labnonlinear/`: Contains scripts used for data analysis.
+- `TISEAN_3.0.0-windows`: Contains TISEAN, a software project for the analysis of time series with methods based on the theory of nonlinear deterministic dynamical systems, or chaos theory.
 
 ## Project Structure
 
@@ -24,12 +26,12 @@ The project involves the examination of historical data, specifically the time i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/TimeSeriesAnalysis-OldFaithful.git
+git clone https://github.com/stavroskiig/old-faithfull-time-series-analysis.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd TimeSeriesAnalysis-OldFaithful
+cd old-faithfull-time-series-analysis
 ```
 Explore the code, data, and results folders for detailed information.
 
