@@ -1,6 +1,4 @@
-# old-faithfull-time-series-analysis
-
-# Time Series Analysis - Old Faithful
+# Time Series Analysis - Old Faithful Geyser
 
 This repository contains the analysis of time series data related to the eruptions of the Old Faithful geyser. The analysis was conducted as part of the "Time Series" course assignment for the academic year 2022/23 at the Department of Electrical and Computer Engineering.
 
@@ -26,12 +24,12 @@ The project involves the examination of historical data, specifically the time i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/stavroskiig/old-faithfull-time-series-analysis.git
+git clone https://github.com/stavroskiig/geyser-time-series-analysis.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd old-faithfull-time-series-analysis
+cd geyser-time-series-analysis
 ```
 Explore the code, data, and results folders for detailed information.
 
